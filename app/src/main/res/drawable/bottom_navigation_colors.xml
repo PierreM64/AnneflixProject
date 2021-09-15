@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_checked="true"
+        android:color="@color/aurore" />
+    <item
+        android:state_checked="false"
+        android:color="@color/saumon" />
+</selector>
+
+    <!--
+    Permet de changer la couleur des icons de la bottom_navigation
+    en fonction de si un fragment est en cours d'utilisation ou non.
+    -->

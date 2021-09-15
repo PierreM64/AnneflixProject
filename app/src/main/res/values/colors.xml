@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- New -->
+    <color name="black_one">#212121</color>
+    <color name="red_one">#FF5252</color>
+
+    <!--Perso Colors-->
+    <color name="aurore">#FFCB60</color>
+    <color name="bleu_de_minuit">#003366</color>
+    <color name="bleu_petrole">#1D4851</color>
+    <color name="bleu_de_prusse">#24445C</color>
+    <color name="bleu_marine">#03224C</color>
+    <color name="cuivre">#B36700</color>
+    <color name="cuivre_opacity_0.6">#99B36700</color>
+    <color name="jaune_dore">#DAA520</color>
+    <color name="saumon">#FA8072</color>
+    <color name="saumon_opacity_0.6">#99FA8072</color>
+    <color name="bleu_lavande">#E6E6FA</color>
+
+    <color name="dark_bleu_prusse">#0B1F30</color>
+    <color name="dark_bleu_petrole">#11292E</color>
+
+    <!-- Couleur Complémentaire en DarkMode du saumon -->
+    <color name="dark_comp_green">#071C11</color>
+</resources>

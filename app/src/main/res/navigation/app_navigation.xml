@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_navigation"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.mbds.anneflixproject.fragments.HomeFragment"
+        android:label="@string/home" />
+    <fragment
+        android:id="@+id/movieFragment"
+        android:name="com.mbds.anneflixproject.fragments.MovieFragment"
+        android:label="@string/detail_movie" />
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.mbds.anneflixproject.fragments.FavoriteFragment"
+        android:label="@string/favorite"
+        tools:layout="@layout/favorite_fragment" />
+    <fragment
+        android:id="@+id/serieFragment"
+        android:name="com.mbds.anneflixproject.fragments.SerieFragment"
+        android:label="@string/series" />
+    <fragment
+        android:id="@+id/detailSerieFragment"
+        android:name="com.mbds.anneflixproject.fragments.DetailSerieFragment"
+        android:label="@string/detail_serie" />
+</navigation>

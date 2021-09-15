@@ -1,0 +1,81 @@
+<resources>
+
+    <!-- General App -->
+    <string name="app_name">Anneflix Project</string>
+    <string name="title_fragment_movie">Movies</string>
+    <string name="title_fragment_serie">Series</string>
+    <string name="title_fragment_favorite">Favorite</string>
+
+        <!-- Categories Recyclerview Home -->
+   <!-- Headline -->
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+
+    <string name="on_air">On Air</string>
+
+    <!-- Movie Part Line -->
+    <string name="most_popular_movies">Most popular movies</string>
+    <string name="highest_rated_movies">Highest rated movies of all time</string>
+    <string name="now_playing_movies">Discover now playing movies</string>
+    <string name="stay_updated">Stay updated with the latest movies</string>
+
+    <!-- Serie Part Line -->
+    <string name="most_popular_series">Most popular series</string>
+    <string name="highest_rated_series">Highest rated Series of all time</string>
+    <string name="currently_airing_series">Currently airing series</string>
+    <string name="stay_updated_series">Stay updated with the latest series</string>
+
+    <!---->
+    <string name="home">Home</string>
+    <string name="series">Series</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="detail_serie">Detail Serie</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Settings</string>
+
+    <string name="added_to_favorites_movies">Added to Favorite Movies</string>
+    <string name="removed_from_favorites_movies">Removed from Favorite Movies</string>
+
+    <string name="added_to_favorites_series">Added to Favorite Series</string>
+    <string name="removed_from_favorites_series">Removed from Favorite Series</string>
+
+    <!-- Verification Favorite Delete -->
+    <string name="wantToDeleteFavoriteMovie">Do you really want to delete this favorite movie ?</string>
+    <string name="wantToDeleteFavoriteSerie">Do you really want to delete this favorite serie ?</string>
+    <string name="Delete">Delete</string>
+    <string name="keep">Keep</string>
+
+    <string-array name="favorite_filter">
+        <item>All</item>
+        <item>Movies</item>
+        <item>Series</item>
+    </string-array>
+
+    <!-- ******** -->
+    <string name="realised_by">Realised by : </string>
+    <string name="creator">Pierre MALLASSAGNE</string>
+    <string name="parameters">Parameters : </string>
+    <string name="NightAndDay">Night/Day : </string>
+    <string name="link_github_of_project">Link Github of the project : </string>
+    <string name="link_github"></string>
+    <string name="librairies">Librairies : </string>
+
+    <!-- ******** -->
+    <!-- Error -->
+    <string name="error_fetch_movies">Error, check your internet connection pls</string>
+
+    <!-- Configuration by Default -->
+    <string name="Def_title">Title</string>
+    <string name="Def_movie_release_date">Movie release date</string>
+    <string name="Def_movie_overview">Movie overview</string>
+    <string name="Def_trailer_name">Trailer Name</string>
+    <string name="Def_trailer_url">URL Trailer</string>
+
+    <string name="Def_serie_release_date">Serie release date</string>
+    <string name="Def_serie_overview">Serie overview</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
